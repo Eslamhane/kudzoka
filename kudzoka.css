@@ -1,0 +1,213 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+   background-image: url(images/blue_bg.png);
+   background-size: cover;
+}
+
+.nav-link{
+    color: black;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: -20px;
+    padding-right: 30px;
+    
+}
+.logo{
+    margin-top: 50px;
+    width: 150px;
+    height: 100px;
+}
+.btn{
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    margin-top: 80px;
+    margin-left: 600px;
+}
+h1{
+    margin-top: 120px;
+    color: gray;
+}
+span{
+    color: Purple;
+}
+p{
+    font-size: 19px;
+    color: gray;
+}
+.landing{
+    position: relative;
+    margin-top: -80px;
+    width: 650px;
+    height: 650px;
+}
+.clouds{
+    margin-top: -280px;
+    position: absolute;
+}
+.mask{
+    position: absolute;
+    margin-top: -610px;
+    width: 250px;
+    margin-left: 150px;
+}
+.waves{
+    position: absolute;
+    margin-top: -150px;
+    width: 1200px;
+    margin-left: -850px;
+   
+}
+.group{
+    position: absolute;
+    margin-top: -500px;
+    width: 200px;
+    height: 150px;
+}
+h4{
+    margin-top: -330px;
+    font-weight: normal;
+    color: gray;
+}
+.secound{
+    margin-left: -50px;
+    font-size: 18px;
+
+}
+.why{
+    width: 250px;
+    height: 200px;
+    margin-top: 200px;
+    position: relative;
+}
+h6{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 50px;
+}
+.secound-header{
+    position: absolute;
+    color: white;
+    margin-top: -80px;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.group152{
+    position: absolute;
+    margin-top: -370px;
+    margin-left: 20px;
+    width: 200px;
+    height: 150px;
+
+}
+
+.secondd{
+    position: relative;
+   width: 900px;
+   margin-left: 100px;
+   height: 600px;
+}
+.secoundddd{
+    margin-top: -220px;
+    font-weight: normal;
+    color: gray;
+}
+.third{
+    margin-left: -50px;
+    text-align: center;
+    color: gray;
+}
+.group1020{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+   margin-top: -20px;
+}
+.thirddd{
+    margin-top: 150px;
+    margin-left: 50px;
+    color: gray;
+}
+.thiiird{
+    text-align: center;
+    color: gray;
+    margin-left: -70px;
+}
+.group1006{
+    width: 200px;
+    height: 150px;
+
+}
+.group1007{
+    width: 300px;
+    height: 250px;
+    margin-top: -50px;
+
+}
+.fas{
+    color: gray;
+}
+.last-head{
+    
+    font-weight: normal;
+    margin-top: -20px;
+    margin-left: 25px;
+}
+.group1008{
+    width: 200px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.footer{
+    background-image: url(images/Group\ 1131.png);
+    background-size: cover;
+}
+.apple{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: 330px;
+   margin-left: 20px;
+    
+    
+}
+.play{
+    width: 10px;
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: -75px;
+   margin-left: 180px; 
+}
+.insta{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.whats{
+    margin-right: 10px;
+
+
+}
+.foot-div{
+    display: flex;
+    
+}
+h2{
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+.foot-bg{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
